@@ -1,6 +1,6 @@
 {
   "name": "@daveykropf/package-publish-test",
-  "version": "1.0.6-beta",
+  "version": "1.0.6-beta2",
   "main": "index.js",
   "repository": {
     "type": "git",
